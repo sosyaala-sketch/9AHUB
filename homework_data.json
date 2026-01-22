@@ -1,13 +1,5 @@
 [
   {
-    "id": 3,
-    "subject": "FİZİK",
-    "description": "Sayfa 189'e kadar her şeyi bitir.",
-    "givenDate": "2025-12-18",
-    "dueDate": "2026-01-25",
-    "time": "08:40"
-  },
-  {
     "id": 1769119871298,
     "subject": "OPIIHUGC",
     "description": "deneme",
